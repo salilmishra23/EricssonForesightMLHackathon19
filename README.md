@@ -6,11 +6,11 @@ The hackathon consisted of two data science problems.
 
 ## Problem 1 : Predict ratings 
    
-   solution/approach is [here]()
+   solution/approach is [here](https://github.com/salilmishra23/EricssonForesightMLHackathon19/tree/master/PredictRating)
    
 ## Problem 2 : Predict the material type used for publishing 
   
-  solution/approach is [here]()
+  solution/approach is [here](https://github.com/salilmishra23/EricssonForesightMLHackathon19/tree/master/PredictMaterialType)
   
 
 ### Leaderboard :
