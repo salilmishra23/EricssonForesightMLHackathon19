@@ -48,4 +48,4 @@ Most people were scoring in .3 to .35 zone. Seeing that I decided to focus major
   - Ceil on score_x columns
 
 ### Leaderboard Score : 
-  0.39088 (3rd best solution, top solution being : 0.39486 & 0.39428)
+    0.39088 (3rd best solution, top solution being : 0.39486 & 0.39428)
