@@ -15,4 +15,4 @@ The hackathon consisted of two data science problems.
 
 ### Leaderboard :
 
-  [Finished 6th/2586 participants](https://www.hackerearth.com/challenges/hiring/ericsson-ml-challenge-2019/leaderboard)
+  [Finished 7th/2586 participants](https://www.hackerearth.com/challenges/hiring/ericsson-ml-challenge-2019/leaderboard)
